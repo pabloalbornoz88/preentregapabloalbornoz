@@ -18,14 +18,14 @@ function inicio(){
                 barril()
                 calcularBarril()
                 alert("Gracias por elegirnos")
-            break;
+            /*break;*/
             case 2:
                 alert("Su eleccion fue Lata")
                 estilo()
                 lata()
                 calcularLata()
                 alert("Gracias por elegirnos")
-            break;
+           /* break;*/
         } 
     } 
     else{
